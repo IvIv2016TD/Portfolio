@@ -29,7 +29,7 @@ Portfolio 2021, 2022 years
 Второе задание второй недели курса Погружение в Python МФТИ на Coursera.
 Описание управления - F1.
 
-![Скринсейвер](Python/screensaver/control.png
+![Скринсейвер](Python/screensaver/control.png)
 
 Демо gif.
 
