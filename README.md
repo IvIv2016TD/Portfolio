@@ -78,6 +78,17 @@ coursera_ds.yml - настроечный файл среды в Anaconda.
 ## Курсовой по нейронным сетям
 -->
 Курсовой проект курса Python для анализа данных МФТИ на Coursera.
+Задание на проект - файл Задание.docx.
+coursera_tf_38.yml - настроечный файл среды в Anaconda. TensorFlow критичен к версиям остального ПО.
+Ссылка на dataset: 
+https://www.kaggle.com/datasets/zalando-research/fashionmnist/download?datasetVersionNumber=4
+
+Результаты: 
+
+![Курсовой по нейронным сетям](Machine_Learning/Coursework_on_neural_networks/Metric_accuracy_for_different_algorithms_of_the_number_of_epochs.png)
+
+![Курсовой по нейронным сетям](Machine_Learning/Coursework_on_neural_networks/The_loss_metric_for_different_algorithms_on_the_number_of_epochs.png)
+
 </details>
 
 <details>
