@@ -1,6 +1,8 @@
 # Portfolio
 Portfolio 2021, 2022 years
 
+<details>
+<summary>Python</summary>
 # Python
 
 ## Игра 15
@@ -15,6 +17,7 @@ Portfolio 2021, 2022 years
 ![Скринсейвер](Python/screensaver/control.png)
 Демо gif.
 ![Скринсейвер](Python/screensaver/example.gif)
+</details>
 <!-- 
 # Python и C
 
@@ -25,8 +28,9 @@ Portfolio 2021, 2022 years
 # WEB Django
 
 # ML
+
 ## Диаграммы по DataSet FIFA
-
+Первое задание второй недели курса Python для анализа данных МФТИ на Coursera.
 ## Курсовой по нейронным сетям
-
+Курсовой проект курса Python для анализа данных МФТИ на Coursera.
 ## Обработка dataset с Caggle
