@@ -49,3 +49,5 @@ Portfolio 2021, 2022 years
 ## Курсовой по нейронным сетям
 Курсовой проект курса Python для анализа данных МФТИ на Coursera.
 ## Обработка dataset с Caggle
+
+</details>
