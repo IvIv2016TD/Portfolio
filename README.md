@@ -16,7 +16,9 @@ Portfolio 2021, 2022 years
 Минимальный графический интерфейс позволяет
 сохранить/загрузить позицию из файла, сгенерировать случайную
 позицию, выбрать цвет и шрифт кнопок. Управление кликом мыши.
+
 ![Игра 15](Python/game_15/interface_15.png)
+
 </details>
 
 <details>
@@ -26,9 +28,13 @@ Portfolio 2021, 2022 years
 -->
 Второе задание второй недели курса Погружение в Python МФТИ на Coursera.
 Описание управления - F1.
-![Скринсейвер](Python/screensaver/control.png)
+
+![Скринсейвер](Python/screensaver/control.png
+
 Демо gif.
+
 ![Скринсейвер](Python/screensaver/example.gif)
+
 </details>
 
 </details>
@@ -61,7 +67,9 @@ Portfolio 2021, 2022 years
 -->
 Первое задание второй недели курса Python для анализа данных МФТИ на Coursera.
 coursera_ds.yml - настроечный файл среды в Anaconda.
+
 ![Диаграммы по DataSet FIFA](Machine_Learning/Diagrams_DataSet_FIFA/The_total_value_of_club_players.png)
+
 </details>
 
 <details>
