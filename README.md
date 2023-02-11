@@ -3,7 +3,9 @@ Portfolio 2021, 2022 years
 
 <details>
 <summary>Python</summary>
+<!--
 # Python
+-->
 
 ## Игра 15
 Простая игра в 15. 
@@ -17,7 +19,8 @@ Portfolio 2021, 2022 years
 ![Скринсейвер](Python/screensaver/control.png)
 Демо gif.
 ![Скринсейвер](Python/screensaver/example.gif)
-</details>
+
+<details>
 <!-- 
 # Python и C
 
