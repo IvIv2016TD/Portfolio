@@ -20,7 +20,7 @@ Portfolio 2021, 2022 years
 Демо gif.
 ![Скринсейвер](Python/screensaver/example.gif)
 
-<details>
+</details>
 
 <!-- 
 # Python и C
@@ -36,7 +36,13 @@ Portfolio 2021, 2022 years
 # WEB Django
 -->
 
+</details>
+
+<details>
+<summary>ML</summary>
+<!--
 # ML
+-->
 
 ## Диаграммы по DataSet FIFA
 Первое задание второй недели курса Python для анализа данных МФТИ на Coursera.
