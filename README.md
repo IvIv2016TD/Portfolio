@@ -51,8 +51,10 @@ Portfolio 2021, 2022 years
 
 Первое задание второй недели курса Python для анализа данных МФТИ на Coursera.
 coursera_ds.yml - настроечный файл среды в Anaconda.
-
+![Скринсейвер](Python/screensaver/control.png)
+<!--
 ![Диаграммы по DataSet FIFA](Machine Learning/Diagrams DataSet FIFA/The total value of club players.png)
+-->
 
 </details>
 
