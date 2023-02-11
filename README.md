@@ -43,11 +43,17 @@ Portfolio 2021, 2022 years
 <!--
 # ML
 -->
-
+<details>
+<summary>Machine Learning</summary>
+<!--
 ## Диаграммы по DataSet FIFA
+-->
+
 Первое задание второй недели курса Python для анализа данных МФТИ на Coursera.
 coursera_ds.yml - настроечный файл среды в Anaconda.
 ![Диаграммы по DataSet FIFA](Machine Learning/Diagrams DataSet FIFA/The total value of club players.png)
+
+</details>
 
 ## Курсовой по нейронным сетям
 Курсовой проект курса Python для анализа данных МФТИ на Coursera.
