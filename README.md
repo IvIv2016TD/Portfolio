@@ -21,6 +21,7 @@ Portfolio 2021, 2022 years
 ![Скринсейвер](Python/screensaver/example.gif)
 
 <details>
+
 <!-- 
 # Python и C
 
@@ -28,7 +29,12 @@ Portfolio 2021, 2022 years
 
 ## Python из C
 -->
+
+<details>
+<summary>WEB Django</summary>
+<!--
 # WEB Django
+-->
 
 # ML
 
