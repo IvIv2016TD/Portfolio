@@ -2,13 +2,13 @@
 Portfolio 2021, 2022 years
 
 <details>
-<summary>Python</summary>
+<summary>#Python</summary>
 <!--
 # Python
 -->
 
 <details>
-<summary>Игра 15</summary>
+<summary>##Игра 15</summary>
 <!--
 ## Игра 15
 -->
@@ -22,7 +22,7 @@ Portfolio 2021, 2022 years
 </details>
 
 <details>
-<summary>Скринсейвер</summary>
+<summary>##Скринсейвер</summary>
 <!--
 ## Скринсейвер
 -->
@@ -48,7 +48,7 @@ Portfolio 2021, 2022 years
 -->
 
 <details>
-<summary>WEB Django</summary>
+<summary>#WEB Django</summary>
 <!--
 # WEB Django
 -->
@@ -56,12 +56,12 @@ Portfolio 2021, 2022 years
 </details>
 
 <details>
-<summary>Machine Learning</summary>
+<summary>#Machine Learning</summary>
 <!--
 # ML
 -->
 <details>
-<summary>Диаграммы по DataSet FIFA</summary>
+<summary>##Диаграммы по DataSet FIFA</summary>
 <!--
 ## Диаграммы по DataSet FIFA
 -->
@@ -73,7 +73,7 @@ coursera_ds.yml - настроечный файл среды в Anaconda.
 </details>
 
 <details>
-<summary>Курсовой по нейронным сетям</summary>
+<summary>##Курсовой по нейронным сетям</summary>
 <!--
 ## Курсовой по нейронным сетям
 -->
@@ -92,7 +92,7 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/download?datasetVe
 </details>
 
 <details>
-<summary>Обработка dataset с Caggle</summary>
+<summary>##Обработка dataset с Caggle</summary>
 <!--
 ## Обработка dataset с Caggle
 -->
